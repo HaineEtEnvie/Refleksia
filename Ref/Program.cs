@@ -1,6 +1,5 @@
 ﻿public class SamplesArray
 {
-
     public static void Main()
     {
         foreach (var m in typeof(ArraySegment<>).GetMethods())
